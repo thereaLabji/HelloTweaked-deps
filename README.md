@@ -1,2 +1,3 @@
-# HelloTweaked-deps
-Fork for HelloTweaked Build.
+# HelloTweaked Deps Build Repository
+A fork repository for building HelloTweaked itself.
+
